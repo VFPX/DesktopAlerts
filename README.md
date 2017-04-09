@@ -9,4 +9,5 @@ The Desktop Alerts project, managed by Kevin Ragsdale, provides VFP developers w
 If you are interested in helping Kevin on this project, please contact him at https://github.com/KevinRagsdale
 
 [Desktop Alerts Whitepaper in PDF Format](docs/DesktopAlerts.pdf)
+
 [Sample Form](sample/DeskAlertSampleForm.zip)
