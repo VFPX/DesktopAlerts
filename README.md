@@ -1,4 +1,4 @@
-# ![](DeskTop Alerts_home.png) Desktop Alerts
+![](DeskTop Alerts_home.png) # Desktop Alerts
 **Outlook-style Desktop Alerts for VFP applications.**
 
 Project Manager: [Kevin Ragsdale](mailto:kevin@kevinragsdale.net)
